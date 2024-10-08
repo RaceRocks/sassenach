@@ -1,6 +1,6 @@
 {:paths ["resources" "src"]
  :deps {org.clojure/clojure {:mvn/version "RELEASE"}
-        deraen/sass4clj {:mvn/version "0.3.1"}
+        deraen/sass4clj {:mvn/version "0.6.0"}
         hawk {:mvn/version "0.2.11"}}
  :aliases
  {:test {:extra-paths ["test" "test_resources"]
